@@ -1,9 +1,18 @@
-import java.io.BufferedReader;
+// Creates a file with filename composed of current date time info
+// Writes info in the array to the text file.
+
+
+
+import java.io.BufferedWriter;
+import java.io.PrintWriter;
+import java.io.FileWriter;
+
+import java.io.File;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-public class BufferedReader_File_Write 
+public class BufferedWriter_File_Write 
 {
 
 	public static void main(String[] args)
@@ -54,7 +63,39 @@ public class BufferedReader_File_Write
 		
 		System.out.println("\n"+ "FileName ->" + FileName);
 		
-
+		//================================================================================================//
+		//                              Creating a File to store data                                     //
+		//================================================================================================//
+		File filehandle = new File(FileName);
+			
+		try
+		{
+			if (filehandle.createNewFile())
+				System.out.println("created File " + FileName );
+		}
+		catch(Exception E )
+		{
+			System.out.println(E.getMessage());
+		}
+		
+		//================================================================================================//
+		//                             Writing data from Array to File                                    //
+		//================================================================================================//
+		
+		try
+		{
+			PrintWriter pr = new PrintWriter(new BufferedWriter(new FileWriter(filehandle)));	
+			
+		    for(String P:Text_to_Write )
+		    	pr.println(P);
+		    
+		    pr.close(); //If the stream is not closed ,data will not be written to the file
+		}
+		catch(Exception E )
+		{
+			System.out.println(E.getMessage());
+		}
+		
 	}//end of main()
 
 }//End  of class 
