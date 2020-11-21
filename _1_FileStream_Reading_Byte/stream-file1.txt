@@ -1,0 +1,181 @@
+
+The Tortoise and the Hare
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about Aesop's fable. For other uses, see The Tortoise and the Hare (disambiguation).
+
+"The Tortoise and the Hare", from an edition of Caleb's Fables illustrated by Arthur Rackham, 1912
+"The Tortoise and the Hare" is one of Aesop's Fables and is numbered 226 in the Perry Index.[1] The account of a race between unequal partners has attracted conflicting interpretations. The fable itself is a variant of a common folktale theme in which ingenuity and trickery (rather than doggedness) are employed to overcome a stronger opponent.
+
+
+Contents
+1	An ambiguous story
+2	Applications
+3	Illustrations of the fable
+4	Musical versions
+5	Folk variants
+6	See also
+7	References
+8	External links
+An ambiguous story
+The story concerns a Hare who ridicules a slow-moving Tortoise. Tired of the Hare's arrogant behavior, the Tortoise challenges him to a race.[2] The hare soon leaves the tortoise behind and, confident of winning, takes a nap midway through the race. When the Hare awakes however, he finds that his competitor, crawling slowly but steadily, has arrived before him. The later version of the story in La Fontaine's Fables (VI.10), while more long-winded, differs hardly at all from Aesop's.[3]
+
+As in several other fables by Aesop, the lesson it is teaching appears ambiguous. In Classical times it was not the Tortoise's plucky conduct in taking on a bully that was emphasised but the Hare's foolish over-confidence. An old Greek source comments that 'many people have good natural abilities which are ruined by idleness; on the other hand, sobriety, zeal and perseverance can prevail over indolence'.[4] When the fable entered the European emblem tradition, the precept to 'hasten slowly' (festina lente) was recommended to lovers by Otto van Veen in his Emblemata Amorum (1608), using a relation of the story. There the infant figure of Eros is shown passing through a landscape and pointing to the tortoise as it overtakes the sleeping hare under the motto "perseverance winneth."[5] Later interpreters too have asserted that the fable's moral is the proverbial 'the more haste, the worse speed' (Samuel Croxall) or have applied to it the biblical observation that 'the race is not to the swift' (Ecclesiastes 9.11).
+
+In the 19th century the fable was given satirical interpretations. In the social commentary of Charles H. Bennett's The Fables of Aesop translated into Human Nature (1857), the hare is changed to a thoughtful craftsman prostrate under the foot of a capitalist entrepreneur.[6] Lord Dunsany brings out another view in his "The True History of the Tortoise and the Hare" (1915). There the hare realises the stupidity of the challenge and refuses to proceed any further. The obstinate tortoise continues to the finishing line and is proclaimed the swiftest by his backers. But, continues Dunsany,
+
+the reason that this version of the race is not widely known is that very few of those that witnessed it survived the great forest-fire that happened shortly after. It came up over the weald by night with a great wind. The Hare and the Tortoise and a very few of the beasts saw it far off from a high bare hill that was at the edge of the trees, and they hurriedly called a meeting to decide what messenger they should send to warn the beasts in the forest. They sent the Tortoise.[7]
+A century later Vikram Seth broadened the satire in his verse retelling of the fable in Beastly Tales (1991) and had it both ways. There is nothing to recommend in the behaviour of either protagonist by way of a moral. While the Tortoise's victory bolsters its joyless self-righteousness, the hare-brained loser is taken up by the media and "pampered rotten/ And the tortoise was forgotten".[8]
+
+Applications
+In Classical times the story was annexed to a philosophical problem by Zeno of Elea in one of many demonstrations that movement is impossible to define satisfactorily. The second of Zeno's paradoxes is that of Achilles and the Tortoise, in which the hero gives the Tortoise a head start in a race. The argument attempts to show that even though Achilles runs faster than the Tortoise, he will never catch up with her because, when Achilles reaches the point at which the Tortoise started, the Tortoise has advanced some distance beyond; when Achilles arrives at the point where the Tortoise was when Achilles arrived at the point where the Tortoise started, the Tortoise has again moved forward. Hence Achilles can never catch the Tortoise, no matter how fast he runs, since the Tortoise will always be moving ahead.[9][10]
+
+The only satisfactory refutation has been mathematical and since then the name of the fable has been applied to the function described in Zeno's paradox. In mathematics and computer science, the tortoise and the hare algorithm is an alternative name for Floyd's cycle-finding algorithm.
+
+Illustrations of the fable
+
+A 19th-century illustration of La Fontaine's Fables by Jean Grandville
+There is a Greek version of the fable but no early Latin version. For this reason it did not begin to appear in printed editions of Aesop's fables until the 16th century, one of the earliest being Bernard Salomon's Les Fables d'Esope Phrygien, mises en Ryme Francoise (1547).[11] Versions followed from the Netherlands (in Dutch, 1567) and Flanders (in French, 1578)[12] but none in English before Francis Barlow's edition of 1667.[13]
+
+Among the many illustrations of the fable, that by the French caricaturist Jean Grandville is novel in portraying the tortoise as running upright. This is also how he is shown in the Walt Disney cartoon version of "The Tortoise and the Hare" (1935).[14] Another departure from the ordinary in Grandville's etching is the choice of a mole (complete with dark glasses) rather than, as usual, a fox as the judge at the finishing line. Auguste Delierre makes the judge a monkey in the 1883 edition of La Fontaine's fables that he illustrated.[15][16] La Fontaine says in his rhyme that it does not matter who the judge is; his interpreters have taken him at his word.
+
+Outside of book production, there is an early 17th-century oil painting of the fable by the Flemish landscape artist Jan Wildens.[17] The hare enters on the left, racing over an upland road as dawn breaks; the tortoise is nowhere in sight. In the mid-19th century, the French animal painter Philibert Léon Couturier also devoted an oil painting to the fable in which, as in Grandville's illustration, the tortoise is shown racing upright.[18] In modern times there have been two pieces of popular sculpture aimed at children. Nancy Schön's was made to commemorate the centenary of the Boston Marathon in 1996 and is sited in Copley Square, the finishing line for the race.[19] The tortoise is shown determinedly stumping forward while the hare has paused to scratch behind its ear. In the following year a painted steel sculpture by Michael Browne and Stuart Smith was set up near the cross-country finish line at Van Cortlandt Park in the Bronx.[20] The hare is mounted on the tortoise's shell and appears to be trying to leap over him.
+
+The fable has also been illustrated on stamps from several countries. These include:
+
+Cyprus, in which cartoon characters are depicted on a set of five €0.34 stamps (2011)[21]
+Dahomey, on a set commemorating the third centenary of La Fontaine's death in which it figures on the 10 franc stamp.[22]
+Dominica, on a 2 cent stamp for Easter 1984, picturing a Disney tortoise carrying Easter eggs as it overtakes the sleeping hare[23]
+France issued surcharged Red Cross stamps in 1978 on which the fable appeared on the 1 franc + 0.25 denomination.[24] It was also included in the 1995 strip of six 2.80 franc stamps commemorating the third centenary of the author's death.[25]
+Greece issued a 1987 set illustrating Aesop's fables, including the tortoise and the hare on the 130 drachma stamp[26]
+Hungary issued a set in 1980 with this fable on the 4 forint stamp[27]
+The Maldives issued a 1990 set in which Disney characters act out the fables; the tortoise and the hare appear on the 15 laree stamp[28]
+Monaco issued a composite 50 centime stamp on the 350th anniversary of La Fontaine's birth in 1971, on which this fable appears[29]
+Sri Lanka issued a 5 rupee stamp for Child's broadcasting day 2007 showing the contestants at the starting line[30]
+Musical versions
+Main article: Aesop's Fables § Musical treatments
+Many allusions to the fable in musical titles are of limited or no relevance, but two interpretive instrumental versions may be noted. The one by Yellowjackets jazz quartet was recorded on their Politics album in 1988.[31] The Anglo-Irish band Flook's title is on their Haven album (2005).[32]
+
+There have also been several verbal settings of Aesop's fable:
+
+By W. Langton Williams (c. 1832-1896) in his Aesop’s Fables, versified & arranged for the piano forte (London, 1890)[33]
+In Aesop's Fables Interpreted Through Music for voice and piano (New York, 1920) by Mabel Wood Hill (1870–1954). In this the moral stated is that "Plodding wins the race".[34]
+Vincent Persichetti included it as the third piece in his Fables for narrator and orchestra (Op. 23, 1943)
+A poetic version set for children's voices and piano by Edward Hughes in his Songs from Aesop's Fables (1965)
+The cellist Evalyn Steinbock's setting for violin, cello and narrator in 1979
+As the first of Anthony Plog's Aesop’s Fables for narrator, piano and horn (1989/93), in which the instruments mimic the pace of the animals[35]
+Among Scott Watson's Aesop's Fables for narrator and orchestral accompaniment (1999)
+A setting for solo voice by Lucian Cristofor Tugui (2006)
+As one of the five pieces in Bob Chilcott's Aesop's Fables for piano and choir (2008)[36]
+A setting for a cappella choir by Darmon Meader (2009)[37]
+As one of David Edgar Walther's ‘short operatic dramas’, composed in 2009
+Movement Three of Julie Giroux's A Symphony of Fables, composed in 2006
+Among ten on David P Shortland's Australian recording, Aesop Go HipHop (2012), where the sung chorus after the hip hop narration underlines the fable's moral, "Slow and steady wins the race"[38]
+Folk variants
+The many other variants of the story in oral folk tradition appear worldwide and are classed as Aarne-Thompson-Uther type 275.[39] In most of these there is a race between unequal partners but most often brain is matched against brawn and the race is won by means of trickery. Broadly this is of two types: either the slower animal jumps on the other's back or tail and hops off at the end when the creature turns round to see where his challenger has got to, or else he is deceived by lookalikes substituting themselves along the course.
+
+Tales with a similar theme emphasizing doggedness have been recorded in Native American culture. Hummingbird and Crane agree to race from one ocean to the other. Though Hummingbird flies faster, he stops at night to sleep. Crane, however, flies overnight and is overtaken by Hummingbird later and later during the day, at length coming in first. The ultimate prize differs between versions and includes choice of habitat, the love of a girl, or the right to cut the other down to size.[40]
+
+See also
+	Wikisource has original text related to this article:
+The Tortoise and the Hare
+Achilles and the Tortoise
+Festina lente
+Law of the handicap of a head start
+References
+ "THE TORTOISE AND THE HARE". Mythfolklore.net.
+ "Story Arts - Aesop's ABC - The Tortoise and The Hare". storyarts.org.
+ A translation is here
+ "237. THE TORTOISE AND THE HARE (Laura Gibbs, translator)". Mythfolklore.net. Retrieved 23 June 2018.
+ The English emblem tradition, University of Toronto 1998, vol.IV, p.174
+ "Lepus et Testudo". Flickr - Photo Sharing!.
+ "Lord Dunsany, 51 Tales'&#39". FullTextArchive.com. Retrieved 2013-12-06.
+ Roopali Gupta, Vikram Seth's Art: An Appraisal, Atlantic Publishers, New Delhi 2005, pp.117-8
+ "Stanford Encyclopaedia of Philosophy". Plato.stanford.edu. Retrieved 2012-03-24.
+ Wilson, Catherine (2015). Leibniz's Metaphysics: A Historical and Comparative Study. Princeton University Press. p. 204. ISBN 978-1-4008-7957-1.
+ "Aesop (Thomas Bewick)". Mythfolklore.net. Retrieved 2012-03-24.
+ "Aesop's Fables - Victoria and Albert Museum". Vam.ac.uk. 2012-03-18. Archived from the original on 2011-05-20. Retrieved 2012-03-24.
+ "70. De lepore et testudine (1687), illustrated by Francis Barlow". Mythfolklore.net. Retrieved 2012-03-24.
+ "The cartoon can be viewed on YouTube". Youtube.com. 2008-06-07. Retrieved 2012-03-24.
+ The preparatory water colour is at the La Fontaine Museum
+ "Photographic image" (JPG). Cuniculture.info. Retrieved 23 June 2018.
+ "Photographic image" (JPG). 1st-art-gallery.com. Retrieved 23 June 2018.
+ "Le Lièvre et la Tortue Philibert Léon Couturier Peinture Toile Huile". philibert-leon-couturier.com.
+ "Hare and Tortoise, Boston, Mass by Nancy Schön". Schon.com. 1993-05-19. Retrieved 2012-03-24.
+ "Public Art in the Bronx". National Endowment for the Humanities. Retrieved 23 June 2018.
+ "Cyprus postal service". Mcw.gov.cy. Archived from the original on 17 December 2012. Retrieved 23 June 2018.
+ "Creighton University :: Aesop's Fables: Dahomey Stamps". Creighton.edu. Retrieved 2012-03-24.
+ "Photographic image" (JPG). Philatelia.ru. Retrieved 23 June 2018.
+ "Photographic image" (JPG). Environnement.ecole.free.fr. Retrieved 23 June 2018.
+ "Creighton University :: Aesop's Fables: Individual Stamps". Creighton.edu. Retrieved 2012-03-24.
+ "Creighton University :: Aesop's Fables: Greece". Creighton.edu. 1987-03-05. Retrieved 2012-03-24.
+ "Creighton University :: Aesop's Fables: Hungary". Creighton.edu. 1960-12-01. Retrieved 2012-03-24.
+ "Creighton University :: Aesop's Fables: Maldives". Creighton.edu. 1990-12-11. Retrieved 2012-03-24.
+ Scroll down to 12 April 2011 on Stampboard.com
+ "Stamp: Hare and the tortoise at the starting line (Sri Lanka (Ceylon)) (International Children's Broadcasting Day 2007) Mi:LK 1679,WAD:LK064.07". colnect.com.
+ "Yellow Jackets - Tortoise and the Hare (Live)". YouTube. 2006-07-27. Retrieved 2012-03-24.
+ Live performance on YouTube
+ PDF at Toronto University
+ The score is available on the Rochester University site
+ A performance on YouTube
+ FMHS Jaguar Chorale -- "Aesop's Fables: the Hare and the Tortoise". YouTube. 26 May 2009.
+ Harambee - The Tortoise and The Hare (Darmon Meader) Acappella. YouTube. 1 September 2010.
+ "Slow and Steady" on YouTube
+ "The Tortoise and the Hare, and Other Races between Unequal Contestants". Pitt.edu. 2011-06-05. Retrieved 2012-03-24.
+ John Reed Swanton, Myths and Tales of the Southeastern Indians, University of Oklahoma 1929, p. 253
+External links
+ Media related to The Tortoise and the Hare at Wikimedia Commons
+
+15th-20th century book illustrations online
+vte
+Aesop
+vte
+The Tortoise and the Hare from Aesop's Fables by Aesop
+Categories: Aesop's FablesLa Fontaine's FablesFictional hares and rabbitsFictional turtlesLiterary duos
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikimedia Commons
+Wikisource
+Print/export
+Download as PDF
+Printable version
+
+Languages
+Deutsch
+Español
+한국어
+Bahasa Indonesia
+Bahasa Melayu
+日本語
+Português
+Tiếng Việt
+中文
+8 more
+Edit links
+This page was last edited on 27 April 2020, at 16:59 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
