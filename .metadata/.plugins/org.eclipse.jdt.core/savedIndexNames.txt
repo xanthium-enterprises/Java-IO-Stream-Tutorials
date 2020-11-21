@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+E:\Java-IO-Stream-Tutorials\Java-IO-Stream-Tutorials\.metadata\.plugins\org.eclipse.jdt.core
 1310650406.index
-1248545562.index
