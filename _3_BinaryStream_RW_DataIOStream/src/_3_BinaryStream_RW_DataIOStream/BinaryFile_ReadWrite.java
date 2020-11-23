@@ -6,7 +6,7 @@ public class BinaryFile_ReadWrite
 
 	public static void main(String[] args) 
 	{
-		hod stub
+		
 
 	}
 
