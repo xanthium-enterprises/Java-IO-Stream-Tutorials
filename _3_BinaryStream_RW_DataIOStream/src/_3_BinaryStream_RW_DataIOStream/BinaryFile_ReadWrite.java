@@ -1,4 +1,4 @@
-// Reading and Writing a binary File using 
+// Reading and Writing a binary File using  DataInputStream/Data Outputstream classes Classes
 package _3_BinaryStream_RW_DataIOStream;
 
 public class BinaryFile_ReadWrite
