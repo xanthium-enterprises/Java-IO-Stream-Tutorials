@@ -21,6 +21,9 @@ public class java8_date_time_api
 	    LocalDateTime currentTime = LocalDateTime.now();
 	    System.out.println("Current DateTime: " + currentTime);
 	    
+	    LocalDate date1 = currentTime.toLocalDate();
+	    System.out.println("date1: " + date1);
+	    
 	    
 	}
 }
