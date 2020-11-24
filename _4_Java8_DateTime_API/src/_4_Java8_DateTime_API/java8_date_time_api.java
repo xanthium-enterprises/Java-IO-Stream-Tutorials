@@ -40,5 +40,14 @@ public class java8_date_time_api
 		System.out.println("CustomDate1-Year  -> " + CustomDate1.getYear());
 		System.out.println("CustomDate1-Month -> " + CustomDate1.getMonth());
 		System.out.println("CustomDate1-Day   -> " + CustomDate1.getDayOfMonth());
+		
+		System.out.println();
+		
+		// Date comparison
+		System.out.println("CustomDate1       -> " + CustomDate1);
+		System.out.println("CustomDate2       -> " + CustomDate2);
+		
+		int date_difference = CustomDate1.compareTo(CustomDate2);
+		System.out.println("date_difference - >" + date_difference);
 	}
 }
