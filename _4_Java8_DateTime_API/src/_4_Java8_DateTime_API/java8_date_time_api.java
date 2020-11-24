@@ -31,5 +31,14 @@ public class java8_date_time_api
 		System.out.println("          Month -> " + DateVariableObj.getMonthValue());
 		System.out.println("            Day -> " + DateVariableObj.getDayOfMonth());
 		
+		//Encoding Custom date 
+		System.out.println("\nEncoding Custom date");
+		LocalDate CustomDate1 = LocalDate.of(2000, 12, 1);
+		LocalDate CustomDate2 = LocalDate.of(1920, 2, 5);
+		
+		System.out.println("CustomDate1       -> " + CustomDate1);
+		System.out.println("CustomDate1-Year  -> " + CustomDate1.getYear());
+		System.out.println("CustomDate1-Month -> " + CustomDate1.getMonth());
+		System.out.println("CustomDate1-Day   -> " + CustomDate1.getDayOfMonth());
 	}
 }
