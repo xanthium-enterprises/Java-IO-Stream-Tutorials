@@ -12,10 +12,13 @@ public class java8_date_time_api
 {
 	public static void main(String[] Args)
 	{
-		System.out.println("New java8 Time API");
+		System.out.println("New java8 Time API\n");
 		
 	    LocalTime TimeVariable = LocalTime.now();
-		System.out.println(TimeVariable);
+		System.out.println("LocalTime.now() -> " + TimeVariable);
+		System.out.println("LocalTime.now() -> " + TimeVariable.getHour());
+		
+		
 	    
 	    
 	}
