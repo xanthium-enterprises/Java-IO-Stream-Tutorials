@@ -7,13 +7,9 @@ public class BinaryFile_ReadWrite
 
 	public static void main(String[] args) 
 	{
-		Movie m = new Movie();
+		Movie[] m = new Movie[6];
 		
-		m.setName("Tenet");
-		m.setYear(2011);
-		
-		System.out.println(m.getName());
-		System.out.println(m.getYear());
+		m[0].setName("Tenet");
 	}
 
 }

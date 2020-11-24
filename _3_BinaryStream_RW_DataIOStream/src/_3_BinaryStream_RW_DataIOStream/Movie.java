@@ -63,4 +63,19 @@ public class Movie
 	
 	//--------------------------------------------------//
 	
+
+	// Setters and getters for the director of the movie
+	public String getDirector()
+	{
+			return director;
+	}
+		
+	public Boolean setDirector(String director)
+	{
+			this.director = director;
+			return true;
+	}
+		
+    //--------------------------------------------------//
+	
 }//end of class Movie
