@@ -16,23 +16,27 @@
 
 package _3_BinaryStream_RW_DataIOStream;
 
-import java.time.LocalDate;
-
 
 public class Movie 
 
 {
 	private String name;
 	private int year;
-	private LocalDate release_date;
-	private String description;
 	private String director;
-	private String[] Actors;
+	
 	
 	//Constructors
 	public Movie()//default constructor
 	{
 		
+	}
+	
+	//Constructors
+	public Movie(String Name,int year,String director)
+	{
+			this.name = Name;
+			this.year = year;
+			this.director = director;
 	}
 	
 	// Setters and getters for the name of the movie
