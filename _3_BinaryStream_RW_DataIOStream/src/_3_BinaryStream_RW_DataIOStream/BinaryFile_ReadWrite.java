@@ -7,6 +7,21 @@ public class BinaryFile_ReadWrite
 
 	public static void main(String[] args) 
 	{
+		Movie[] movies = getMovies();
+		
+		
+		for(Movie PM:movies)
+		{
+			System.out.println(PM.getName());
+			System.out.println(PM.getYear());
+			System.out.println(PM.getDirector());
+			System.out.println();
+		}
+		
+	}//end of main()
+	
+	private static Movie[] getMovies()
+	{
 		Movie[] m = new Movie[5];
 		
 		m[0] = new Movie("Tenet",2020,"Christofer Nolan");
@@ -15,14 +30,7 @@ public class BinaryFile_ReadWrite
 		m[3] = new Movie("Alien",1979,"Ridley Scott");
 		m[4] = new Movie("Whiplash",2014,"Damien Chazelle");
 		
-		for(Movie PM:m)
-		{
-			System.out.println(PM.getName());
-			System.out.println(PM.getYear());
-			System.out.println(PM.getDirector());
-			System.out.println();
-		}
-		
+		return m;
 	}
 
-}
+}//end of class
