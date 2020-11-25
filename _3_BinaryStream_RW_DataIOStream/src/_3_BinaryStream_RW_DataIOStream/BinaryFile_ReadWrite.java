@@ -10,6 +10,7 @@ public class BinaryFile_ReadWrite
 		Movie[] m = new Movie[6];
 		
 		m[0].setName("Tenet");
+		m[0].setDirector("Christofer Nolan");
 	}
 
 }
