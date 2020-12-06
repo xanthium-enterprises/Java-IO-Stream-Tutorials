@@ -12,7 +12,7 @@ public class Simple_Buffered_File_Reader
 	{
 		String FileLine = " ";
 		
-		File F = new File("Simple_Buffered_FileReader_text.txt");
+		File F = new File("Simple_Buffered_FileReader_text.txt");//this file already exists on the disk
 		BufferedReader br = new BufferedReader(new FileReader(F));
 		
 		while((FileLine = br.readLine()) != null)

@@ -30,6 +30,8 @@ public class Simple_Buffered_File_Writer
 		{
 			PrintWriter print_writer= new PrintWriter(new BufferedWriter(new FileWriter(fwriter)));
 			print_writer.println("Hello World from PrintWriter");
+			print_writer.println("Hello World from PrintWriter");
+			print_writer.println("Hello World from PrintWriter");
 			print_writer.close();//without these data will not be written to text file
 		}
 		catch(Exception E)
