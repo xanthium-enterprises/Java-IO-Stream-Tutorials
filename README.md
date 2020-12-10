@@ -14,7 +14,8 @@
 
 - Java 8 Date Time API
 - Java File IO 
-	- Creating a File using File 
+	- Creating a File using File Class
 	- Reading and Writing into a File
+- Java Threads
 
 
