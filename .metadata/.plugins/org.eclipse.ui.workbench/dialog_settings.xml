@@ -10,6 +10,7 @@
 		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Rahul\Desktop\Java String API"/>
 			<item value="C:\Users\Rahul\Desktop\Java File Management"/>
 			<item value="E:\_1_Personal\MY PROJECTS\SourceCodes\Java\Core-Java-Tutorials-main\Java-Streams"/>
 		</list>
