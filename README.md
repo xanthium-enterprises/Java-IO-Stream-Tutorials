@@ -1,6 +1,6 @@
 # Java Tutorials
 
-- Code compiled using **Eclipse 
+- Code compiled using **Eclipse IDE **
 
 --------------------------------------------
 
